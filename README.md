@@ -1,5 +1,5 @@
-# FileFolderSort
-The FileFolderSort is an application intended to assist in sorting large folders by dates/events. Inspiration came from dumping entire folders of family photos from an SD card that contained many individual events over a year and needed to be sorted into folders and labeled with the event name.
+# PhotoFolderSort
+The PhotoFolderSort is an application intended to assist in sorting large photo folders by dates/events. Inspiration came from dumping entire folders of family photos from an SD card that contained many individual events over a year and needed to be sorted into folders and labeled with the event name.
 
 As a user, I would like the ability to select a folder to sort via file dialog, so that I may easily identify the folder to sort.
 
