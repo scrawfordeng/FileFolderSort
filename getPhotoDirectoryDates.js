@@ -5,8 +5,10 @@ const path = require('path')
 const fs = require('fs')
 const ExifImage = require('exif').ExifImage
 
-function getPhotoDates (directoryPath) {
-  var photoDates = getPhotosFromDirectory(directoryPath, parseDateFromPhotos)
+var photoDates
+
+function populatePhotoDates (directoryPath) {
+  photoDates.push(getPhotosFromDirectory(directoryPath, parseDateFromPhotos))
   console.log(photoDates)
   return
 }
@@ -44,3 +46,5 @@ function parseDateFromPhotos (filepath) {
     return
   }
 }
+
+
