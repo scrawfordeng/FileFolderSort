@@ -1,0 +1,23 @@
+{
+  "name": "photofoldersort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "exif": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scrawfordeng/PhotoFolderSort.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scrawfordeng/PhotoFolderSort/issues"
+  },
+  "homepage": "https://github.com/scrawfordeng/PhotoFolderSort#readme"
+}
