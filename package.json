@@ -1,7 +1,7 @@
 {
   "name": "photofoldersort",
   "version": "1.0.0",
-  "description": "",
+  "description": "The PhotoFolderSort is an application intended to assist in sorting large photo folders by dates/events. Inspiration came from dumping entire folders of family photos from an SD card that contained many individual events over a year and needed to be sorted into folders and labeled with the event name.",
   "main": "main.js",
   "dependencies": {
     "exif": "^0.6.0"
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/scrawfordeng/PhotoFolderSort.git"
   },
-  "author": "",
+  "author": "Scott Crawford",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/scrawfordeng/PhotoFolderSort/issues"
